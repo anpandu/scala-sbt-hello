@@ -5,10 +5,10 @@ Hello world in scala (SBT).
 
 ### Requirements
 ```
-JDK 1.8
-Scala 2.11.9
-SBT 0.13.15
-SBT Assembly 0.14.4
+JDK 14.0.2
+Scala 2.13.3
+SBT 1.3.13
+SBT Assembly 0.15.0
 ```
 
 ### Run
