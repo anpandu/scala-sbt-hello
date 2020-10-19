@@ -21,7 +21,7 @@ sbt run
 
 ```sh
 sbt assembly
-./target/scala-2.11/hello-assembly-1.0.jar
+java -cp ./target/scala-2.11/hello-assembly-1.0.jar example.Hello
 ```
 
 ### License
